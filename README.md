@@ -5,8 +5,6 @@
 
 A physics-based particle simulator with 20+ interactive materials (sand, water, fire, antimatter, black holes, and more). Perfect for experimenting with emergent behaviors!
 
-![Demo Screenshot](assets/img/preview.png)
-
 ## Features ✨
 - **20+ Elements**: Sand, water, fire, metal, antimatter, nanobots, etc.
 - **Real Physics**: Gravity, temperature, fluid dynamics
@@ -17,5 +15,3 @@ A physics-based particle simulator with 20+ interactive materials (sand, water, 
 1. **Live Demo**: [Play here](https://aryannten.github.io/quantum-sandbox)
 2. **Local**:
    ```bash
-   git clone https://github.com/yourusername/quantum-sandbox.git
-   open index.html
