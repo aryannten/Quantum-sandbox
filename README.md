@@ -1,7 +1,7 @@
 # Quantum Sandbox 🌌
 
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://aryannten.github.io/quantum-sandbox) 
-[![License](https://img.shields.io/github/license/aryannten/quantum-sandbox?style=for-the-badge)](LICENSE)
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://aryannten.github.io/Quantum-sandbox) 
+[![License](https://img.shields.io/github/license/aryannten/Quantum-sandbox?style=for-the-badge)](LICENSE)
 
 A physics-based particle simulator with 20+ interactive materials (sand, water, fire, antimatter, black holes, and more). Perfect for experimenting with emergent behaviors!
 
@@ -12,6 +12,6 @@ A physics-based particle simulator with 20+ interactive materials (sand, water, 
 - **Zero Dependencies**: Pure HTML/CSS/JS
 
 ## Usage 🚀
-1. **Live Demo**: [Play here](https://aryannten.github.io/quantum-sandbox)
+1. **Live Demo**: [Play here](https://aryannten.github.io/Quantum-sandbox)
 2. **Local**:
    ```bash
