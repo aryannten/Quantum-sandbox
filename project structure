@@ -1,9 +1,9 @@
 quantum-sandbox/
-├── index.html          # Main HTML file (paste your code here)
+├── index.html         
 ├── assets/
 │   ├── css/
-│   │   └── style.css   # Optional: Extract CSS later
+│   │   └── style.css  
 │   └── img/
-│       └── preview.png # Screenshot for README
-├── LICENSE             # Auto-added by GitHub
-└── README.md           # Project documentation
+│       └── preview.png 
+├── LICENSE             
+└── README.md          
